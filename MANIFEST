@@ -1,0 +1,6 @@
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+NOTICE         版権と許諾についての告示書
+CHANGES        colrmのモデルチェンジの履歴
+colrm.1        colrmのマニュアル
+colrm.x        colrm実行ファイル
